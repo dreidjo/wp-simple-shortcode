@@ -7,7 +7,7 @@
 ---
 
 ## 📸 Screenshots
-![Example of shortcode output](https://github.com/dreidjo/wp-simple-shortcode/blob/main/screenshot.png)
+![Example of shortcode output](https://github.com/dreidjo/wp-simple-shortcode/blob/main/screenshot.PNG?raw=true)
 
 
 
