@@ -1,7 +1,14 @@
 # WP Simple Shortcode
 
+## 🧩 Features
+
+- Shortcode that shows the date and time updating every second 
+
+---
+
 ## 📸 Screenshots
-![Example of shortcode output](./screenshot.png)
+![Example of shortcode output](https://github.com/dreidjo/wp-simple-shortcode/blob/main/screenshot.png)
+
 
 
 🚧 **This plugin is currently in active development. Use at your own risk in production environments.** 🚧
@@ -9,11 +16,7 @@ Simple shortcode that show the date and time updating every second
 
 ---
 
-## 🧩 Features
 
-- Shortcode that shows the date and time updating every second 
-
----
 
 ## ⚙️ Installation
 
